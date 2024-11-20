@@ -9,7 +9,7 @@ Original file is located at
 
 # Required Libraries
 # Run these in Google Colab before starting
-!pip install google-api-python-client streamlit mysql-connector-python pandas
+pip install google-api-python-client streamlit mysql-connector-python pandas
 
 # Import necessary libraries
 import os
