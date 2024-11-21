@@ -35,10 +35,18 @@ pip install mysql-connector-python
 ```
 
 3. YouTube API Interaction
+ ```python
+from googleapiclient.discovery import build
+import os
+```
 
 4. Database Operations
 
-5. Streamlit app
+   -Create tables to store data from youtube channels
 
+6. Streamlit app
+```python
+import streamlit as st
+```
 
 
