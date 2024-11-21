@@ -97,7 +97,7 @@ def create_mysql_connection():
     Establish MySQL connection
     """
     connection = mysql.connector.connect(
-        host='localhost',
+        host='127.0.0.1',
         user='root',  # Replace with your MySQL username
         password='Shriyantra@01',  # Replace with your MySQL password
         database='youtube_data'  # Database name
